@@ -1,0 +1,59 @@
+*{
+    margin: 0;padding: 0;
+}
+
+.box{
+    height: 35vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aquamarine;  */
+}
+span{
+    height: 15vh;
+    width: 17vw;
+    margin: 2px;
+   
+}
+button{
+    height: 100%;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: 600;
+    font-family: cursive;
+}
+.gap{
+    margin: 10px;
+}
+.pop:hover{
+    font-size: 50px;
+}
+
+#grey{
+    background-color: gray;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#orange{
+    background-color: orange;
+}
+.reset-button{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#white{
+    height: 40px;
+    width: 90px;
+}
+
+
